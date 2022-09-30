@@ -1,13 +1,5 @@
 # Spiral
 
-The purpose of this exercise is to train you to work with arrays.
-
-Estimated workload of this exercise is _45 min_.
-
-### Description
-Please, proceed to [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java)
-class and implement its static method:
-
 * `int[][] spiral(int rows, int columns)`\
   Return a two-dimensional array coming in the form of a table and containing numbers from `1` up to `rows * columns`. The size of the table will be specified by the given parameters.\
   Numbers fill the "table" clockwise from the top-level corner in a spiral manner.\
